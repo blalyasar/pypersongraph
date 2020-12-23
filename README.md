@@ -1,5 +1,7 @@
 # pypersongraph
-pypersongraph is based matplotlib .. matplotlib version ==3.3.3
+pypersongraph is based matplotlib .. 
+- matplotlib version ==3.3.3
+- python version tested 3.9
 # pypersongraph version = 0.1
   - python person graph based on matplotlib library
   - requirements.txt
