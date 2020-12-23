@@ -16,6 +16,7 @@ showing = PersonGraph(dimensions=(10,10),
                     title ="HOLA HOLA")
 showing.show()
 ```
+![Default-values show](pypersongrapg-default.png)
 
 - simple example image background.py
 - default image person_white.pg
