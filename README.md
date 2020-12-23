@@ -21,3 +21,12 @@ showing.show()
 - simple example image background.py
 - default image person_white.pg
 - other images with pixel in for loop manuel changes.
+support images
+### gold:255,215,0
+### green:0,128,0
+### pink :255,192,203
+### purple : 128,0,128
+### red: 255,0,0
+### yellow:255,255,0
+### black : 00
+### blue : 0,0,255
