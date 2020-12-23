@@ -17,6 +17,6 @@ showing = PersonGraph(dimensions=(10,10),
 showing.show()
 ```
 
-#! simple example image background.py
-#! default image person_white.pg
-#! other images with pixel in for loop manuel changes.
+- simple example image background.py
+- default image person_white.pg
+- other images with pixel in for loop manuel changes.
