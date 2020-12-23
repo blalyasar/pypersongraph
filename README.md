@@ -21,6 +21,7 @@ showing.show()
 - simple example image background.py
 - default image person_white.pg
 - other images with pixel in for loop manuel changes.
+
 support images : 
 Referans https://www.rapidtables.com/web/color/
 - gold:255,215,0
