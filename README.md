@@ -15,7 +15,7 @@ showing = PersonGraph(dimensions=(10,10),
                     first_rate = 10,
                     first_color="red",
                     second_color="green",
-                    title ="HELLO BRO")
+                    title ="Hello Bro")
 showing.show()
 ```
 ![Default-values show](pypersongrapg-default.png)
